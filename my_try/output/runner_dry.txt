@@ -1,0 +1,121 @@
+在使用天勤量化之前，默认您已经知晓并同意以下免责条款，如果不同意请立即停止使用：https://www.shinnytech.com/blog/disclaimer/
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+C:\Users\DUANboyang\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py:2057: UserWarning: 订阅多合约时推荐使用 api.get_quote_list 方法批量订阅。
+  handle._run()
+====================================================================================================
+carry 组合执行器   【干跑, 不下单】
+时间 2026-11-11 14:17:25   杠杆 4.0x   单品种上限 10%
+====================================================================================================
+2026-11-11 14:17:37 -     INFO - 通知 : 与 wss://free-api.shinnytech.com/t/nfmd/front/mobile 的网络连接已建立
+2026-11-11 14:17:37 -     INFO - 通知 DwuanBoyoung: 与 wss://otg-sim.shinnytech.com/trade 的网络连接已建立
+2026-11-11 14:17:37 -     INFO - 通知 DwuanBoyoung: 登录成功
+合约表: SHFE:1502, DCE:1569, CZCE:1518, INE:369, GFEX:144
+品种 44 个, 等主连报价 ...
+可算 carry 的品种 44 个, 订阅行情 ...
+日线就绪 44/44
+
+账户: 权益 1,000,000 元, 可用 1,000,000 元
+注意: 按下单权益 5,000,000 元算手数(账户实际 1,000,000)
+目标敞口 1,569 万 (3.14 倍权益), 需保证金 138 万, 可用 100 万
+保证金不足, 全体手数按 61% 缩放(避免批量拒单)
+
+品种      近月          远月             carry     波动     权重    手数     名义万
+----------------------------------------------------------------------------------------------------
+p       p2701       p2702         -18.5%  18.3%  -0.10    -3      32
+a       a2701       a2703          -1.8%  17.1%  -0.10    -6      32
+SR      SR701       SR703          -3.6%   9.8%  -0.10    -6      32
+sp      sp2701      sp2702         -5.6%  15.1%  -0.10    -6      32
+hc      hc2701      hc2702          0.0%   8.0%  -0.10    -9      31
+SA      SA701       SA702         -30.0%  25.9%  -0.10   -15      31
+pp      pp2701      pp2702         61.4%  33.9%   0.10     6      31
+c       c2701       c2703          -5.4%  11.0%  -0.10   -14      31
+jd      jd2612      jd2701        132.8%  23.4%   0.10     8      31
+FG      FG701       FG702         -34.1%  22.4%  -0.10   -17      31
+cs      cs2701      cs2703         -0.5%  11.1%  -0.10   -12      30
+v       v2701       v2702          -7.5%  25.8%  -0.10   -12      30
+ni      ni2612      ni2701         -1.7%  18.6%  -0.10    -2      30
+ss      ss2701      ss2702         -2.1%  13.0%  -0.10    -4      30
+UR      UR701       UR702          -1.4%  11.9%  -0.10    -8      30
+l       l2701       l2702          40.0%  29.9%   0.09     6      28
+al      al2612      al2701         20.4%  12.2%   0.10     2      28
+jm      jm2701      jm2702         40.7%  34.0%   0.09     3      26
+MA      MA701       MA702          51.1%  40.4%   0.08     7      25
+OI      OI701       OI703          16.9%  14.6%   0.09     2      24
+j       j2701       j2702          31.5%  26.9%   0.09     1      24
+ru      ru2701      ru2703         -1.2%  22.8%  -0.07    -1      24
+AP      AP701       AP703          31.0%  30.8%   0.07     3      22
+eg      eg2701      eg2702         37.8%  37.7%   0.07     4      21
+rb      rb2701      rb2702          9.5%   9.0%   0.07     6      21
+TA      TA701       TA702          26.0%  33.5%   0.06     6      19
+SF      SF701       SF702          15.6%  19.5%   0.06     6      18
+fu      fu2701      fu2702         44.8%  55.6%   0.06     4      18
+eb      eb2612      eb2701         26.7%  38.4%   0.05     3      16
+SM      SM701       SM702           0.8%  14.1%  -0.05    -5      16
+zn      zn2612      zn2701          1.4%  15.1%  -0.04    -1      16
+RM      RM701       RM703          12.5%  19.0%   0.04     5      12
+si      si2612      si2701          9.2%  13.2%   0.03     2      11
+bu      bu2701      bu2702         17.1%  43.4%   0.03     2      10
+CJ      CJ701       CJ703           0.5%  26.3%  -0.04    -3      10
+
+干跑结束: 没有下任何单。核对手数后加 --live 才会真的执行。

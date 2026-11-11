@@ -1,0 +1,3 @@
+# 里面是密码, 不要提交到 git
+tq_auth.py
+__pycache__/
